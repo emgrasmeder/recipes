@@ -1,9 +1,7 @@
 ### 1. Proof the Yeast:
 - 9g yeast
 - 7g sugar
-- 120g of water if you use 405 (pastry) flour
-OR
-- 140g water if you use 550 (bread) flour
+- 120g of water if you use 405 (pastry) flour OR 140g water if you use 550 (bread) flour
 
 ### 2. Proof water+yeast+sugar 30 minutes. While you wait, in a big bowl mix:
   - 9g salt
