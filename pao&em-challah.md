@@ -1,3 +1,5 @@
+This is the Challah recipe we've been using for a few years, it's always a hit. Recently we've been making it vegan but that recipe isn't stable enough to include below. For vegan substitutions, see the notes at the bottom.
+
 ### 1. Proof the Yeast:
 - 9g yeast
 - 7g sugar
