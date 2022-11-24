@@ -6,7 +6,7 @@
 ### 2. Proof water+yeast+sugar 30 minutes. While you wait, in a big bowl mix:
   - 9g salt
   - 480g flour
-  - 74g grease (coconut oil is what we use lately)
+  - 74g grease (coconut oil is what we use lately, butter was what we used before)
   - 60g sugar
   - 2 whole eggs + 1 extra egg yolk (save the egg white in the fridge for the egg wash later)
 
