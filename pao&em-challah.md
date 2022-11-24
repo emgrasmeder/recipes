@@ -48,7 +48,7 @@ Notes, lessons learned, substitutions:
 - Maple syrup is an OK substitute for egg wash, I heat it up on the stove before applying with my fingers. Result is not as smooth or shiny, but is sweeter and has a nice aroma
 - Substituting the 2.5 eggs in the bread, I've done 75g water, 30g apple sauce (or put in a mixer with the water), 5g corn starch and it's been pretty good  
 - Knead the dough until it's smooth and passes the window check
-- Once the bread is golden/brown as you like, cover it with foil to prevent burning but allowing it to keep cooking
+- Once the bread is golden/brown in the oven as you like, cover it with foil to prevent burning but allowing it to keep cooking
 - When you put the dough in the bowl, a grease that's solid at room temperature will allow the dough ball to come out easier when it's time to braid
 - coconut oil works well but gives the slightest aroma, i wouldn't over think the grease - butter, margerine, coconut oil, we've even used ghee. you get the idea
 - when it comes to kneading bread and letting bread rise, don't pay attention to "it should take X minutes", just do it until the consistency is right and the rise is right. it might take 1 hour, it might take 2.5 hours if it's cold in the house, just punch it when it's ready
