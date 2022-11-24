@@ -46,7 +46,7 @@ we use a thermometer to check that they're at least 88 degrees celcius
 
 Notes, lessons learned, substitutions:
 - Maple syrup is an OK substitute for egg wash, I heat it up on the stove before applying with my fingers. Result is not as smooth or shiny, but is sweeter and has a nice aroma
-- Substituting the 2.5 eggs in the bread, I've done 75g water, 30g apple sauce (or put in a mixer with the water), 10g corn starch and it's been pretty good
+- Substituting the 2.5 eggs in the bread, I've done 75g water, 30g apple sauce (or put in a mixer with the water), 5g corn starch and it's been pretty good  
 - Knead the dough until it's smooth and passes the window check
 - Once the bread is golden/brown as you like, cover it with foil to prevent burning but allowing it to keep cooking
 - When you put the dough in the bowl, a grease that's solid at room temperature will allow the dough ball to come out easier when it's time to braid
