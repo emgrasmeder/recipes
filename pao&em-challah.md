@@ -1,9 +1,11 @@
 This is the Challah recipe we've been using for a few years, it's always a hit. Recently we've been making it vegan but that recipe isn't stable enough to as the Hauptrezept here. For our current vegan substitutions, see the notes at the bottom.
 
+You'll need: yeast, sugar, water, salt, flour, grease, eggs
+
 ### 1. Proof the Yeast:
-- 9g yeast
-- 7g sugar
-- 120g of water if you use 405 (pastry, i think) flour OR 140g water if you use 550 (bread or all purpose, i think) flour
+- 9g (3 tsp) yeast
+- 7g sugar (1.5 tsp)
+- 120g  (0.5 cup) of water if you use 405 (pastry, i think) flour OR 140g water if you use 550 (bread or all purpose, i think) flour
 
 ### 2. Proof water+yeast+sugar 30 minutes. While you wait, in a big bowl mix:
   - 9g salt
