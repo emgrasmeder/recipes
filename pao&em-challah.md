@@ -8,10 +8,10 @@ You'll need: yeast, sugar, water, salt, flour, grease, eggs
 - 120g  (0.5 cup) of water if you use 405 (pastry, i think) flour OR 140g water if you use 550 (bread or all purpose, i think) flour
 
 ### 2. Proof water+yeast+sugar 30 minutes. While you wait, in a big bowl mix:
-  - 9g salt
-  - 480g flour
-  - 74g grease (coconut oil is what we use lately, butter was what we used before)
-  - 60g sugar
+  - 9g (1.75 tsp) salt
+  - 480g (4 cups) flour
+  - 74g grease (.375 cups) (coconut oil is what we use lately, butter was what we used before)
+  - 60g (1/3 cup) sugar
   - 2 whole eggs + 1 extra egg yolk (save the egg white in the fridge for the egg wash later)
 
 ### 3. Mix in the water + yeast + sugar
