@@ -10,7 +10,7 @@ You'll need: yeast, sugar, water, salt, flour, grease, eggs
 ### 2. Proof water+yeast+sugar 30 minutes. While you wait, in a big bowl mix:
   - 9g (1.75 tsp) salt
   - 480g (4 cups) flour
-  - 74g grease (.375 cups) (coconut oil is what we use lately, butter was what we used before)
+  - 74g grease (.375 cups) (coconut oil or plant butter is what we use lately, regular butter was what we used before bc we're don't eat meat)
   - 60g (1/3 cup) sugar
   - 2 whole eggs + 1 extra egg yolk (save the egg white in the fridge for the egg wash later)
 
@@ -39,19 +39,21 @@ I use my fingers for this, don't knock it 'til you've tried it.
 ### 11. Sprinkle on poppy, sesame, everything, as you like
 
 ### 12. turn on the oven to 190 degrees celcius
-make sure the bread and the towel are not in the oven
+make sure the bread and the towel are not in the oven while you're preheating it
 
 ### 13. If everything worked perfectly, your challot will have risen but not yet deflated
 
 ### 14. cook for, like, 13-16 minutes
-we use a thermometer to check that they're at least 88 degrees celcius 
+we use a thermometer to check that they're at least 88 degrees celcius in the middle
+if they start to brown too soon, you can cover them with aluminium foil or something. we often just slide in a baking sheet above the challot to slow down the heat if they start to look too brown.
 
 Notes, lessons learned, substitutions:
 - Maple syrup is an OK substitute for egg wash, I heat it up on the stove before applying with my fingers. Result is not as smooth or shiny, but is sweeter and has a nice aroma
+- agave also worked well as vegan egg wash
 - Substituting the 2.5 eggs in the bread, I've done 75g water, 30g apple sauce (or put in a mixer with the water), 5g corn starch and it's been pretty good  
 - Knead the dough until it's smooth and passes the window check
 - Once the bread is golden/brown in the oven as you like, cover it with foil to prevent burning but allowing it to keep cooking
-- When you put the dough in the bowl, a grease that's solid at room temperature will allow the dough ball to come out easier when it's time to braid
+- When you put the dough in the bowl for the first rise, using a grease that's solid at room temperature will allow the dough ball to come out easier when it's time to braid
 - coconut oil works well but gives the slightest aroma, i wouldn't over think the grease - butter, margerine, coconut oil, we've even used ghee. you get the idea
 - when it comes to kneading bread and letting bread rise, don't pay attention to "it should take X minutes", just do it until the consistency is right and the rise is right. it might take 1 hour, it might take 2.5 hours if it's cold in the house, just punch it when it's ready
 - i think we double the recipe above and it takes kinda twice as long to cook...  
