@@ -13,7 +13,11 @@
 OR
   - 100 grams "50% bitter chocolate chips" + 60g "85% bitter chocolate chips"
 
-Freeze/refrigerate them til they're cold before baking
+mix them all together and freeze/refrigerate them til they're cold before baking
+
+we scoop them out with an ice cream scoop and
+
+- bake for 12-14 minutes at 175C (350F)
 
 and the inspiration comes from this recipe: https://www.loveandlemons.com/vegan-chocolate-chip-cookies/
 
