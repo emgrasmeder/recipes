@@ -2,6 +2,7 @@
 
 I keep my starter in the fridge, so maybe this will be wonky for you if your starter lives at room temperature.
 I basically: Feed 6 hours before mixing, then mix and braid immediately, then leave it out to grow for 12 hours at room temperature, then bake. 
+The times should be approximate. They'll change with your starter strength and the temperature/season. What's important is that the starter doubles after feeding, and the braided loaves double before baking. You mix them all together when the starter doubles, and bake when the braided doughs have doubled. 
 
 ## Thursday at Lunch (5 minutes)
 
