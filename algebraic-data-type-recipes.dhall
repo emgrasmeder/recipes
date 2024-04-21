@@ -182,11 +182,3 @@ Gluten Free Challah:
 Fake Meat:
 	- https://www.youtube.com/watch?v=2k1LhOtCYho
 - https://www.youtube.com/watch?v=yY2YN6krVtk
-Friends Diets:
-Leonie:
-- no wheat
-- no rye
-- no spelt 
-- no dairy or meat. 
-- organic eggs 
-- no soy
