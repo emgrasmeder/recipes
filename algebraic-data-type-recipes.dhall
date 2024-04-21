@@ -26,8 +26,8 @@ Dill (1 packet from Rewe)
 Eggs (5?)
 Chicken-like Soup stock (see above) (enough to make the matzah damp but not soggy) 
 Salt and pepper (1 tsp of salt, 3 teaspoons of pepper?)
-Smashed up Matzos (6-9 matzot?)
-Onion (1 baseball sized)
+Smashed up Matzos (12-15 matzot?)
+Onion (2-3 baseball sized)
 Less than a teaspoon of baking soda
 Coconut Oil (don't hold back, but just to fry the onion)
 Procedure
