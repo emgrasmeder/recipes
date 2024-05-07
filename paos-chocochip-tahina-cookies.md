@@ -6,7 +6,7 @@
    - 3 grams baking soda
    - 8 grams of salt
    - 180 grams brown sugar
-   - 75 grams coconut oil
+   - 65 grams coconut oil
    - 40 grams margarine
    - 1/3 tsp of vanilla
    - 86 grams tahina (sesame paste)
