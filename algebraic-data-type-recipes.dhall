@@ -79,11 +79,11 @@ Take out the big stuff you planned on taking out, take out the lemon
 
 Apple Pie Filling 
 Ingredients 
-6 large apples, cored, peeled, and thinly sliced (approx 10–12 cups total – use a variety for better flavor, such as Pink Lady, Granny Smith, or Honey Crisp)*
-1/2 cup (100g) granulated sugar
-2 Tablespoons (30ml) fresh lemon juice
-1/4 cup (31g) all-purpose flour (spoon & leveled)
-1/4 teaspoon ground cloves
+6-7 large apples, cored, peeled, and thinly sliced (approx 10–12 cups total – use a variety for better flavor, such as Pink Lady, Granny Smith, or Honey Crisp)*
+90g granulated sugar
+25ml fresh lemon juice
+31g all-purpose flour (spoon & leveled)
+1/4 teaspoon ground cloves (2)
 1/4 teaspoon ground nutmeg
 1 and 1/2 teaspoons ground cinnamon
 egg wash: 1 large egg beaten with 1 Tablespoon (15ml) milk
