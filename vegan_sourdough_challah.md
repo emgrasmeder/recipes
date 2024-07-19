@@ -11,14 +11,14 @@ The times should be approximate. They'll change with your starter strength and t
 ## Thursday Before Bed (1 hour)
 
 1. Mix all the ingredients together (5-10 minutes)
-   - 150g sourdough starter
-   - 170 or 180 grams water
+   - 200g sourdough starter
+   - 150-180 grams water
    - 420g type 550 flour
      - (405 flour works fine but needs a bit less water, we've found)
    - 70g vegan butter
    - 8g salt
    - half cup of white cheakpea flour (not besan)
-   - 72g raw sugar
+   - 80g raw sugar
      - my theory has been: more sugar than instant/fresh yeast dough, bc the sourdough will eat it all night
 2. Knead until it passes the [window test](https://github.com/emgrasmeder/recipes/assets/8107614/955438ae-c920-46d6-9fdf-7b7c9881d0f8) (40 minutes)
 3. ([Now would be the time to take the challah if you made a bigger batch](https://www.myjewishlearning.com/recipe/taking-challah/))
