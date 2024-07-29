@@ -55,6 +55,7 @@ When you open the bottle, it may pop like champagne. You can avoid this by just 
 - lemon, agave honey, ginger, sage
 - hops
 - lemon + cucumber + sage
+- pommegranate + rosemary
 
   ---
 
