@@ -41,6 +41,21 @@ When you open the bottle, it may pop like champagne. You can avoid this by just 
 
 ##### To get the Kombucha Hotel started 
 
-- You can make the hotel by doing the steps of the First Ferment above, and leaving it there. The scoby can live like that for a long time, and as long as you give it some sweet tea every few months it'll be fine. The scoby will multiply over time. 
+- You can make the hotel by doing the steps of the First Ferment above, and leaving it there. The scoby can live like that for a long time, and as long as you give it some sweet tea every few months it'll be fine. The scoby will multiply over time.
+
+##### Flavors we like to do on the second ferment (for one liter bottle) :
+
+- Half an orange + 1 crushed cardamom pod
+- 4-5 strawberries and a sprig of mint
+- 10 blueberries + 1 clove (nelken)
+- pear + ginger
+- cinnamon and apple
+- carrot root + tumeric root
+- mango
+- lemon, agave honey, ginger, sage
+- hops
+- lemon + cucumber + sage
+
+  ---
 
 example of bottles: ![image](https://github.com/user-attachments/assets/8972424a-716c-4390-84ff-2c1c1281b3b1)
