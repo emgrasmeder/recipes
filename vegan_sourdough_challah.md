@@ -16,7 +16,7 @@ The times should be approximate. They'll change with your starter strength and t
      - (405 flour works fine but needs a bit less water, we've found)
    - 70g vegan butter
    - 8g salt
-   - half cup of white cheakpea flour (we use the type of chickpea flour that is *not besan*. I don't know if it makes a difference)
+   - 50g of white cheakpea flour (we use the type of chickpea flour that is *not besan*. I don't know if it makes a difference)
    - 80g raw sugar
    - 150-180 grams water (add the water in parts; you want the dough dry, but not so dry that it's impossible to knead)
 2. Knead until it's well mixed, this dough may never pass the [window test](https://github.com/emgrasmeder/recipes/assets/8107614/955438ae-c920-46d6-9fdf-7b7c9881d0f8)
