@@ -1,3 +1,54 @@
+{- This is an example Dhall configuration file
+
+   Can you spot the mistake?
+
+   Fix the typo, then move onto the "Definitions"
+   example
+
+dhall works like this:
+let Config : Type =
+      {- What happens if you add another field here? -}
+      { home : Text
+      , privateKey : Text
+      , publicKey : Text
+      }
+
+let makeUser : Text -> Config = \(user : Text) ->
+      let home       : Text   = "/home/${user}"
+      let privateKey : Text   = "${home}/.ssh/id_ed25519"
+      let publicKey  : Text   = "${privateKey}.pub"
+      let config     : Config = { home, privateKey, publicKey }
+      in  config
+
+let configs : List Config =
+      [ makeUser "bill"
+      , makeUser "jane"
+      ]
+
+in  configs
+
+let ServableUnit : Type =
+    { 
+    measurement : Weight | Volume
+    }
+let BrothySoup : Type =
+    { 
+    Volume: Number
+    }
+    
+
+let VegetableSoup : BrothySoup = 
+    { 
+
+    }
+
+-}
+
+let DietCompatibilityDetails : Type = 
+    { isVegetarian : Bool
+    , isKosherForPesach : Bool
+    }
+
 Chicken-like soup
 
 Ingredients
