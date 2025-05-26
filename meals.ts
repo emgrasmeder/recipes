@@ -35,3 +35,8 @@ const vegetables = {
   onion: "onion",
   papa: "papa",
 }
+
+const starches = {
+  rice: "rice",
+  bread: "bread",
+}
