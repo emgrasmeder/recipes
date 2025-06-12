@@ -1,42 +1,49 @@
+const sides = {
+  jicama = "jicama",
+  kohlrabi = "kohlrabi",
+  platanoMacho = "platanoMacho",
+};
+
 const meals = {
   alambre: "alambre" ,
-  cabbage_fried_rice: "cabbage_fried_rice",
   bolognese: "bolognese",
+  chili: "chili",
+  cabbage_fried_rice: "cabbage_fried_rice",
   hamburger: "hamburger",
   salad: "salad",
   tacos_de_papa: "tacos_de_papa",
-  chili: "chili",
   tortilla_espanola: "tortilla_espanola",
 
 }
 
 const proteins = {
-  vegan_balls: "vegan_balls",
-  tofu: "tofu",
+  bean: "bean",
+  egg: "egg",
+  hamburger_meat: "hamburger_meat",
+  lentil: "lentil",
   smoked_tofu: "smoked_tofu",
   seitan: "seitan",
   soy_protein: "soy_protein",
-  hamburger_meat: "hamburger_meat",
-  lentil: "lentil",
-  bean: "bean",
-  egg: "egg",
+  tofu: "tofu",
+  tuna: "tuna",
+  vegan_balls: "vegan_balls",
 }
 
 const conduits = {
   bowl: "bowl",
   durum: "durum",
-  tortilla: "tortilla",
   plate: "plate",
+  tortilla: "tortilla",
 }
 
 const vegetables = {
   mushroom: "mushroom",
-  pepper: "pepper",
   onion: "onion",
+  pepper: "pepper",
   papa: "papa",
 }
 
 const starches = {
-  rice: "rice",
   bread: "bread",
+  rice: "rice",
 }
