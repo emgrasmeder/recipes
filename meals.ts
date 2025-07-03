@@ -7,13 +7,13 @@ const sides = {
 const meals = {
   alambre: "alambre" ,
   bolognese: "bolognese",
-  chili: "chili",
   cabbage_fried_rice: "cabbage_fried_rice",
+  chili: "chili",
+  curry: "curry",
   hamburger: "hamburger",
   salad: "salad",
   tacos_de_papa: "tacos_de_papa",
   tortilla_espanola: "tortilla_espanola",
-
 }
 
 const proteins = {
