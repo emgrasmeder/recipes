@@ -5,7 +5,7 @@
    - 6 grams baking powder
    - 3 grams baking soda
    - 8 grams of salt
-   - 180 grams brown sugar
+   - 180 grams raw sugar
    - 65 grams coconut oil
    - 40 grams margarine
    - 1/3 tsp of vanilla
