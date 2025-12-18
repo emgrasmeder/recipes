@@ -1,4 +1,4 @@
-This is the Challah recipe we've been using for a few years, it's always a hit. Recently we've been making it vegan but that recipe isn't stable enough to as the Hauptrezept here. For our current vegan substitutions, see the notes at the bottom.
+This is the Challah recipe we've been using for a few years, it's always a hit. Recently we've been making it vegan but that recipe isn't stable enough to as the main recipe here. For our current vegan substitutions, see the notes at the bottom.
 
 You'll need: yeast, sugar, water, salt, flour, grease, eggs
 
@@ -12,10 +12,10 @@ You'll need: yeast, sugar, water, salt, flour, grease, eggs
   - 480g (4 cups) flour
   - 74g grease (.375 cups) (coconut oil or plant butter is what we use lately, regular butter was what we used before bc we're don't eat meat)
   - 60g (1/3 cup) sugar
-  - 2 whole eggs + 1 extra egg yolk (save the egg white in the fridge for the egg wash later)
+  - 2 whole eggs + 1 extra egg yolk (or egg replacement, see below) (save the egg white in the fridge for the egg wash later)
 
 ### 3. Mix in the water + yeast + sugar
-it should be frothy
+ideally the yeast has formed some bubbles, just dump it into your big bowl
 
 ### 4. Knead it all together until the dough passes the [window test](https://www.youtube.com/watch?v=aYNj9FZAbzM). 
 if you're in doubt, keep kneading. seriously, keep going, don't get discouraged!
@@ -48,9 +48,12 @@ we use a thermometer to check that they're at least 88 degrees celcius in the mi
 if they start to brown too soon, you can cover them with aluminium foil or something. we often just slide in a baking sheet above the challot to slow down the heat if they start to look too brown.
 
 Notes, lessons learned, substitutions:
-- Maple syrup is an OK substitute for egg wash, I heat it up on the stove before applying with my fingers. Result is not as smooth or shiny, but is sweeter and has a nice aroma
-- agave also worked well as vegan egg wash
-- Substituting the 2.5 eggs in the bread, I've done 75g water, 30g apple sauce (or put in a mixer with the water), 5g corn starch and it's been pretty good  
+
+- replacement for 2.5 eggs:
+  - 75g water + 30g apple sauce + 5g corn starch
+  - 60g chickpea flour + 120g water
+- vegan egg wash options:
+  - maple syrup or agave, I heat it up on the stove before applying with my fingers. Result is not as smooth or shiny, but is sweeter and has a nice aroma
 - Knead the dough until it's smooth and passes the window check
 - Once the bread is golden/brown in the oven as you like, cover it with foil to prevent burning but allowing it to keep cooking
 - When you put the dough in the bowl for the first rise, using a grease that's solid at room temperature will allow the dough ball to come out easier when it's time to braid
