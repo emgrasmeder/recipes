@@ -11,7 +11,8 @@
 5. dump it out on lightly floured table and do another stretch and fold, sprinkle with flour and let rest 20 minutes
 6. shape and put in basket
 7. refrigerate 18-24 hours
-8. bake 30 minutes in dutch oven at 235 C
-9. continue baking 25-30 minutes with lid off at 235 C
+8. bake 30 minutes in oven with a lot of steam at 200 C
+9. continue baking ~15-20 minutes with all sources of steam gone at 200 C
+10. bake last 10 minutes upside down at 200 C
 
 
