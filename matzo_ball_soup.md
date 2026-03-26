@@ -14,9 +14,9 @@ Use this for shopping; detailed amounts are repeated under each part.
 - EITHER
   - **Eggs:** about **5** OR
   - **Potato Starch:** 3 tablespoons
-- **Fresh herbs (e.g. Rewe packets):** parsley **~1.7** packets, cilantro **1**, dill **1** — all chopped very fine for the mix.
-- **Baking soda:** a scant **1 teaspoon** (less than a teaspoon per the original note).
-- **Extra:** **salted water** in a separate pot to boil the matzo balls (not counted in the broth salt above).
+- **Fresh herbs:** parsley 120g, cilantro **80g**, dill **80g** — all chopped very fine for the mix.
+- **Baking soda:** a scant **1 teaspoon**
+- **Extra:** **salty water** in a separate pot to boil the matzo balls (not counted in the broth salt above).
 
 The **broth you simmer in part 1** is what you use to moisten the matzo crumbs in part 2 — not a second mystery stock.
 
