@@ -11,7 +11,9 @@ Use this for shopping; detailed amounts are repeated under each part.
 - **Salt:** **2–3 generous tablespoons** for seasoning the **broth** (in the pot); separately, about **1 teaspoon salt** and **3 teaspoons pepper** for the **matzo dough** (not the same salt as “to taste” in the big pot).
 - **Water:** about **1–2 liters** to build the broth.
 - **Matzos:** **12–15** matzot, smashed or crumbled.
-- **Eggs:** about **5**, for the matzo dough.
+- EITHER
+  - **Eggs:** about **5** OR
+  - **Potato Starch:** 3 tablespoons
 - **Fresh herbs (e.g. Rewe packets):** parsley **~1.7** packets, cilantro **1**, dill **1** — all chopped very fine for the mix.
 - **Baking soda:** a scant **1 teaspoon** (less than a teaspoon per the original note).
 - **Extra:** **salted water** in a separate pot to boil the matzo balls (not counted in the broth salt above).
