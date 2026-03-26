@@ -27,7 +27,7 @@ The **broth you simmer in part 1** is what you use to moisten the matzo crumbs i
 ### Ingredients
 
 - Onions — **2** baseball-sized, chopped
-- Carrots — **2** large, chopped
+- Carrots — **2** large (but not ridiculous), chopped
 - Celery — **6** stalks, chopped
 - Coconut oil — **1–2** generous tablespoons
 - Salt — **2–3** generous tablespoons (for the pot; adjust until it tastes OK)
